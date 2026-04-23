@@ -6,6 +6,15 @@ Este projeto tem como objetivo analisar dados transacionais de e-commerce utiliz
 
 A análise foi realizada a partir de um conjunto de dados de transações reais, contendo informações sobre pedidos, produtos, clientes e datas. O projeto contempla desde o tratamento dos dados até a construção de um dashboard interativo.
 
+## Dados
+
+O dataset utilizado neste projeto está disponível em:
+
+https://archive.ics.uci.edu/ml/datasets/Online+Retail
+
+O arquivo utilizado foi:
+- Online Retail.xlsx
+
 ## Ferramentas e Tecnologias
 
 - Python (Pandas)
