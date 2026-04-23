@@ -17,17 +17,9 @@ O objetivo deste portfólio é demonstrar habilidades em análise de dados, enge
 
 ### Análise de Performance de Vendas — E-commerce
 
-Projeto de análise de dados transacionais de e-commerce, com foco em faturamento, comportamento de clientes e desempenho de produtos.
+Projeto de análise de dados de e-commerce com foco em faturamento, comportamento de clientes e desempenho de produtos.
 
-Principais atividades:
-- Limpeza e tratamento de dados
-- Criação de métricas de negócio
-- Análise exploratória
-- Construção de consultas SQL
-- Desenvolvimento de dashboard interativo
-
-Acesse o projeto:
-./online-retail-sales-analysis
+[Ver projeto](./online-retail-sales-analysis)
 
 ## Estrutura do Repositório
 
