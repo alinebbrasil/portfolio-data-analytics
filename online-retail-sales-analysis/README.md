@@ -35,9 +35,9 @@ Devido ao tamanho do arquivo, os dados não foram incluídos neste repositório.
 
 ## Principais Insights
 
-- O Reino Unido concentra a maior parte do faturamento total  
-- Um grupo reduzido de produtos é responsável por grande parte das vendas  
-- Há crescimento consistente na atividade de clientes ao longo do tempo  
+- Forte concentração de receita no Reino Unido  
+- Alta concentração de faturamento em poucos produtos (efeito de cauda longa)  
+- Crescimento consistente na base de clientes ao longo do tempo  Há crescimento consistente na atividade de clientes ao longo do tempo  
 
 ## Como Executar
 
