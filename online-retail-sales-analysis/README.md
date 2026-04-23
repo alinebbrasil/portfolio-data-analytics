@@ -8,12 +8,13 @@ A análise foi realizada a partir de um conjunto de dados de transações reais,
 
 ## Dados
 
-O dataset utilizado neste projeto está disponível em:
+Os dados utilizados neste projeto são públicos e estão disponíveis em:
 
 https://archive.ics.uci.edu/ml/datasets/Online+Retail
 
-O arquivo utilizado foi:
-- Online Retail.xlsx
+Este dataset contém transações de um e-commerce do Reino Unido entre 2010 e 2011, incluindo informações de pedidos, produtos, clientes e localização. :contentReference[oaicite:1]{index=1}
+
+Devido ao tamanho do arquivo, os dados não foram incluídos neste repositório.
 
 ## Ferramentas e Tecnologias
 
