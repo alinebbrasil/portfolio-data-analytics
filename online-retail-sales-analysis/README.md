@@ -2,6 +2,11 @@
 
 Este projeto tem como objetivo analisar dados transacionais de e-commerce utilizando Python, SQL e Power BI, com foco em geração de insights de negócio relacionados a faturamento, comportamento de clientes e desempenho de produtos.
 
+
+## Contexto
+
+Este projeto simula um cenário real de análise de dados em e-commerce, com foco em apoiar decisões de negócio por meio de dados.
+
 ## Visão Geral
 
 A análise foi realizada a partir de um conjunto de dados de transações reais, contendo informações sobre pedidos, produtos, clientes e datas. O projeto contempla desde o tratamento dos dados até a construção de um dashboard interativo.
